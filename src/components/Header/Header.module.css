@@ -1,0 +1,12 @@
+.bg_nav{
+
+    background-image: linear-gradient(to right, #09203F , #537895) !important;
+}
+.text_dark_primary{
+
+    color:#09203F !important;
+}
+.text_light_primary{
+
+    color:#fff !important;
+}
